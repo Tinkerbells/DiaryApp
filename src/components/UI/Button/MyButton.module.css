@@ -1,0 +1,14 @@
+.MyButton {
+    font-family: 'JetBrains Mono', monospace;
+    height: 35px;
+    background: #943d24;
+    width: 100%;
+    cursor: pointer;
+    margin-top: 5px;
+    border: #943d24 solid 1px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+}

@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;1,200&display=swap');
+
+.Menu{
+    width: 600px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: #943d24 2px solid;
+    border-radius: 8px;
+    background: #fff;
+}

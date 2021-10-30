@@ -1,0 +1,10 @@
+.MyTextArea {
+    border: #943d24 2px solid;
+    border-radius: 8px;
+    resize: none;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    height: 330px;
+}
+
